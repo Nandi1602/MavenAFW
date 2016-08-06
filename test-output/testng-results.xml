@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="13412" started-at="2016-08-06T08:48:25Z" finished-at="2016-08-06T08:48:38Z">
+  <suite name="Suite" duration-ms="16270" started-at="2016-08-06T12:52:34Z" finished-at="2016-08-06T12:52:50Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="13412" started-at="2016-08-06T08:48:25Z" finished-at="2016-08-06T08:48:38Z">
-      <class name="com.qspiders.jenkins.DemoA">
-        <test-method status="PASS" signature="test()[pri:0, instance:com.qspiders.jenkins.DemoA@27082746]" name="test" duration-ms="13394" started-at="2016-08-06T14:18:25Z" finished-at="2016-08-06T14:18:38Z">
+    <test name="Test" duration-ms="16270" started-at="2016-08-06T12:52:34Z" finished-at="2016-08-06T12:52:50Z">
+      <class name="com.qspiders.jenkins.DemoC">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.qspiders.jenkins.DemoC@4501b7af]" name="test" duration-ms="16249" started-at="2016-08-06T18:22:34Z" finished-at="2016-08-06T18:22:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-      </class> <!-- com.qspiders.jenkins.DemoA -->
+      </class> <!-- com.qspiders.jenkins.DemoC -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
