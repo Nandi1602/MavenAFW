@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
-      <class name="com.qspiders.jenkins.DemoA"/>
+      <class name="com.qspiders.jenkins.DemoB"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
