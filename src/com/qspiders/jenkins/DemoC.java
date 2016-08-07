@@ -9,8 +9,8 @@ public class DemoC {
 	public void test()
 	{
 		WebDriver driver = new FirefoxDriver();
-		driver.get("https://www.google.co.in/");
-		driver.close();
+		driver.get("https://www.gmail.com/");
+		//driver.close();
 	}
 
 }
