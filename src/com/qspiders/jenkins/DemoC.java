@@ -9,7 +9,7 @@ public class DemoC {
 	public void test()
 	{
 		WebDriver driver = new FirefoxDriver();
-		driver.get("http://www.seleniumhq.org/download/");
+		driver.get("https://www.google.co.in/");
 		driver.close();
 	}
 
