@@ -4,6 +4,7 @@
   <test name="Test">
     <classes>
       <class name="com.qspiders.jenkins.DemoC"/>
+      <class name="com.qspiders.jenkins.DemoA"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
