@@ -11,7 +11,7 @@ import com.relevantcodes.extentreports.LogStatus;
 
 public class DemoC {
 	
-	ExtentReports report = new ExtentReports("./ExtentReport/ExtentReport.html",false);
+	ExtentReports report = new ExtentReports("./ExtentReport/ExtentReport.html",true);
 	
 	@Test
 	public void extnreports()

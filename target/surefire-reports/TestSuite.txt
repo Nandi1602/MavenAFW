@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.263 sec <<< FAILURE! - in TestSuite
-test(com.qspiders.jenkins.DemoA)  Time elapsed: 0.014 sec  <<< FAILURE!
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.321 sec <<< FAILURE! - in TestSuite
+test(com.qspiders.jenkins.DemoA)  Time elapsed: 0.013 sec  <<< FAILURE!
 java.lang.AssertionError: null
 	at com.qspiders.jenkins.DemoA.test(DemoA.java:14)
 
