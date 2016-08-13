@@ -17,8 +17,8 @@ public class DemoC {
 	public void extnreports()
 	{
 		
-		ExtentTest logger = report.startTest("extnreports");
-		logger.log(LogStatus.PASS, "test passed");
+		ExtentTest logger = report.startTest("extnreports1");
+		logger.log(LogStatus.PASS, "test passed..");
 		report.endTest(logger);
 		//report.flush();
 		
@@ -32,8 +32,8 @@ public class DemoC {
 	public void test1()
 	{
 		
-		ExtentTest logger = report.startTest("test1");
-		logger.log(LogStatus.FAIL, "test failed");
+		ExtentTest logger = report.startTest("test2");
+		logger.log(LogStatus.FAIL, "test failed..");
 		report.endTest(logger);
 		report.flush();
 		

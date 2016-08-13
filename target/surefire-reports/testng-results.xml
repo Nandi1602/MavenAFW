@@ -5,12 +5,12 @@
       <![CDATA[Failed Test]]>
     </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="411" started-at="2016-08-13T12:55:24Z" finished-at="2016-08-13T12:55:25Z">
+  <suite name="Suite" duration-ms="418" started-at="2016-08-13T12:57:53Z" finished-at="2016-08-13T12:57:54Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="411" started-at="2016-08-13T12:55:24Z" finished-at="2016-08-13T12:55:25Z">
+    <test name="Test" duration-ms="418" started-at="2016-08-13T12:57:53Z" finished-at="2016-08-13T12:57:54Z">
       <class name="com.qspiders.jenkins.DemoA">
-        <test-method status="FAIL" signature="test()[pri:0, instance:com.qspiders.jenkins.DemoA@4b168fa9]" name="test" duration-ms="3" started-at="2016-08-13T18:25:25Z" finished-at="2016-08-13T18:25:25Z">
+        <test-method status="FAIL" signature="test()[pri:0, instance:com.qspiders.jenkins.DemoA@401e7803]" name="test" duration-ms="4" started-at="2016-08-13T18:27:54Z" finished-at="2016-08-13T18:27:54Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[null]]>
@@ -58,11 +58,11 @@
         </test-method> <!-- test -->
       </class> <!-- com.qspiders.jenkins.DemoA -->
       <class name="com.qspiders.jenkins.DemoC">
-        <test-method status="PASS" signature="extnreports()[pri:0, instance:com.qspiders.jenkins.DemoC@358c99f5]" name="extnreports" duration-ms="8" started-at="2016-08-13T18:25:24Z" finished-at="2016-08-13T18:25:24Z">
+        <test-method status="PASS" signature="extnreports()[pri:0, instance:com.qspiders.jenkins.DemoC@2e3fc542]" name="extnreports" duration-ms="13" started-at="2016-08-13T18:27:53Z" finished-at="2016-08-13T18:27:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- extnreports -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.qspiders.jenkins.DemoC@358c99f5]" name="test1" duration-ms="374" started-at="2016-08-13T18:25:24Z" finished-at="2016-08-13T18:25:25Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.qspiders.jenkins.DemoC@2e3fc542]" name="test1" duration-ms="375" started-at="2016-08-13T18:27:53Z" finished-at="2016-08-13T18:27:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
