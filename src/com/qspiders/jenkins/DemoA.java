@@ -9,6 +9,7 @@ public class DemoA {
 	@Test
 	public void test()
 	{
+		
 		Reporter.log("Failed Test");
 		Assert.fail();
 	}

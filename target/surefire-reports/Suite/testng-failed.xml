@@ -4,6 +4,16 @@
   <test name="Test">
     <classes>
       <class name="com.qspiders.jenkins.DemoC"/>
+      <class name="com.qspiders.jenkins.DemoA"/>
     </classes>
   </test> <!-- Test -->
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.qspiders.jenkins.DemoA">
+        <methods>
+          <include name="test"/>
+        </methods>
+      </class> <!-- com.qspiders.jenkins.DemoA -->
+    </classes>
+  </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

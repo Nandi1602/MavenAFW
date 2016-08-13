@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="16270" started-at="2016-08-06T12:52:34Z" finished-at="2016-08-06T12:52:50Z">
+  <suite name="Default suite" duration-ms="50" started-at="2016-08-13T12:48:11Z" finished-at="2016-08-13T12:48:11Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="16270" started-at="2016-08-06T12:52:34Z" finished-at="2016-08-06T12:52:50Z">
+    <test name="Default test" duration-ms="50" started-at="2016-08-13T12:48:11Z" finished-at="2016-08-13T12:48:11Z">
       <class name="com.qspiders.jenkins.DemoC">
-        <test-method status="PASS" signature="test()[pri:0, instance:com.qspiders.jenkins.DemoC@4501b7af]" name="test" duration-ms="16249" started-at="2016-08-06T18:22:34Z" finished-at="2016-08-06T18:22:50Z">
+        <test-method status="PASS" signature="extnreports()[pri:0, instance:com.qspiders.jenkins.DemoC@25359ed8]" name="extnreports" duration-ms="24" started-at="2016-08-13T18:18:11Z" finished-at="2016-08-13T18:18:11Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test -->
+        </test-method> <!-- extnreports -->
       </class> <!-- com.qspiders.jenkins.DemoC -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
