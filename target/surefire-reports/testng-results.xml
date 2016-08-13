@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
+    <line>
+      <![CDATA[Test Executed from Jenkins]]>
+    </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="15696" started-at="2016-08-06T10:31:40Z" finished-at="2016-08-06T10:31:56Z">
+  <suite name="Suite" duration-ms="54586" started-at="2016-08-07T09:42:44Z" finished-at="2016-08-07T09:43:38Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="15696" started-at="2016-08-06T10:31:40Z" finished-at="2016-08-06T10:31:56Z">
-      <class name="com.qspiders.jenkins.DemoA">
-        <test-method status="PASS" signature="test()[pri:0, instance:com.qspiders.jenkins.DemoA@6aaa5eb0]" name="test" duration-ms="15666" started-at="2016-08-06T16:01:40Z" finished-at="2016-08-06T16:01:56Z">
+    <test name="Test" duration-ms="54586" started-at="2016-08-07T09:42:44Z" finished-at="2016-08-07T09:43:38Z">
+      <class name="com.qspiders.jenkins.DemoC">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.qspiders.jenkins.DemoC@6bf256fa]" name="test" duration-ms="54566" started-at="2016-08-07T15:12:44Z" finished-at="2016-08-07T15:13:38Z">
           <reporter-output>
+            <line>
+              <![CDATA[Test Executed from Jenkins]]>
+            </line>
           </reporter-output>
         </test-method> <!-- test -->
-      </class> <!-- com.qspiders.jenkins.DemoA -->
+      </class> <!-- com.qspiders.jenkins.DemoC -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
